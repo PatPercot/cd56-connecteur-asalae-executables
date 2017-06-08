@@ -24,6 +24,7 @@ rm -rf Documentation
 cp -r ../cd56-connecteur-asalae/Documentation .
 
 cp ../cd56-connecteur-asalae/param.config.sample .
+cp ../cd56-connecteur-asalae/CHANGELOG .
 
 # On revient dans utils
 cd -
