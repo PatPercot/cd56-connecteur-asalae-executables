@@ -25,6 +25,7 @@ mkdir Documentation
 xcopy /S /Q /Y ..\cd56-connecteur-asalae\Documentation Documentation 1>NUL
 
 copy ..\cd56-connecteur-asalae\param.config.sample .
+copy ..\cd56-connecteur-asalae\CHANGELOG .
 
 REM On revient dans utils
 cd utils
