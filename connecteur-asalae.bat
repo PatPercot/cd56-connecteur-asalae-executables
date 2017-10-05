@@ -1,5 +1,8 @@
 @ECHO OFF
 
+REM On se place dans le répertoire du script
+cd %~dp0
+
 REM GENERATOR : Modifier à chaque changement de version
 SET CONNECTEUR_ASALAE=cd56-connecteur-asalae-1.0.1.jar
 

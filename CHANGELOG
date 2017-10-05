@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Utilisation de plusieurs serveurs
 	- Ajout de section pour décrire plusieurs qserveurs dans le fichier de configuration
 	- Possibilité de sélectionner le serveur lors de l'appel du connecteur
+	- Ajout de la commande "cd %~dp0" dans le script de lancement
 	
 ## [1.0.0]
 ### Première version fonctionnelle
